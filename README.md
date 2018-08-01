@@ -1,2 +1,2 @@
 # ctr-models
-TensorFlow implementation of Deep &amp; Cross Network, FFM, DNN
+TensorFlow implementation of LR, FM, DNN, DeepFM, Deep &amp; Cross Network
